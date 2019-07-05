@@ -37,3 +37,7 @@ BuildRequires:  python3-devel
 %doc README.rst
 %{python3_sitelib}/text_unidecode-*.egg-info/
 %{python3_sitelib}/text_unidecode
+
+%changelog
+* Fri Jul 5 2019 David Moreau Simard <dmsimard@redhat.com> - 1.2-1
+- First version of the package
