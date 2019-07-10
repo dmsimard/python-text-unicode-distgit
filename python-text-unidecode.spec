@@ -3,7 +3,7 @@
 Name:           python-%{srcname}
 Version:        1.2
 Release:        1%{?dist}
-Summary:        text-unidecode is the most basic port of the Text::Unidecode Perl library
+Summary:        The most basic port of the Text::Unidecode Perl library
 
 License:        Artistic
 URL:            https://github.com/kmike/text-unidecode
